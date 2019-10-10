@@ -1,0 +1,1122 @@
+[
+  {
+    "n": "Advanced Fishing",
+    "v": "1.3.3",
+    "f": "Advanced-Fishing-1.12.2-1.3.3.jar",
+    "a": "NightKosh",
+    "u": "",
+    "m": "45d6f18d0ac8075b0cb65d2bde83ebdd"
+  },
+  {
+    "n": "Advanced Hook Launchers",
+    "v": "1.12.2-3.2.2.0",
+    "f": "AdHooks-1.12.2-3.2.2.0-build.0220.jar",
+    "a": "EnderLanky",
+    "u": "http://minecraft.curseforge.com/projects/advanced-hook-launchers",
+    "m": "0373751bfa0e5451b7a6e39cfd161daa"
+  },
+  {
+    "n": "AlcatrazCore",
+    "v": "1.0.4",
+    "f": "alcatrazcore-1.0.4.jar",
+    "a": "AlcatrazEscapee",
+    "u": "",
+    "m": "e64b3abdcfadc9e4f895487e2fa7d822"
+  },
+  {
+    "n": "AmbientSounds",
+    "v": "3.0",
+    "f": "AmbientSounds_v3.0.9_mc1.12.2.jar",
+    "a": "CreativeMD",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2526167",
+    "m": "a050bc219e9cace2b49b87191f5199bb"
+  },
+  {
+    "n": "Antique Atlas",
+    "v": "4.5.1",
+    "f": "antiqueatlas-1.12.2-4.5.1.jar",
+    "a": "Hunternif",
+    "u": "http://www.minecraftforum.net/topic/2045745",
+    "m": "80604938ab7dc7399d700887be4db2c3"
+  },
+  {
+    "n": "Antique Atlas Overlay",
+    "v": "1.2",
+    "f": "antiqueatlas-1.12.2-4.5.1.jar",
+    "a": "Kenkron",
+    "u": "http://www.minecraftforum.net/topic/2045745",
+    "m": "80604938ab7dc7399d700887be4db2c3"
+  },
+  {
+    "n": "Anvil Patch - Lawful",
+    "v": "1.0.0",
+    "f": "anvilpatch-1.0.0.jar",
+    "a": "Lumber Wizard",
+    "u": "",
+    "m": "4c62a3f00164605e7e90c60e5c9f0d12"
+  },
+  {
+    "n": "Applied Energistics 2",
+    "v": "rv6-stable-7",
+    "f": "appliedenergistics2-rv6-stable-7.jar",
+    "a": "AlgorithmX2",
+    "u": "http://ae2.ae-mod.info",
+    "m": "b8667d60a761d5b5ae3c8a15192f9e28"
+  },
+  {
+    "n": "Aquaculture",
+    "v": "1.6.8",
+    "f": "Aquaculture-1.12.2-1.6.8.jar",
+    "a": "Team Metallurgy",
+    "u": "http://minecraft.curseforge.com/mc-mods/60028-aquaculture",
+    "m": "168ee7ded8fa21d49700b99e8617c79b"
+  },
+  {
+    "n": "Armor Underwear",
+    "v": "1.0.0",
+    "f": "armorunder-mc1.12.2-1.0.0.jar",
+    "a": "The_Wabbit",
+    "u": "https://minecraft.curseforge.com/projects/armor-underwear-mod",
+    "m": "84308daae446fa09128c46948ec6352b"
+  },
+  {
+    "n": "ArtemisLib",
+    "v": "1.0.6",
+    "f": "ArtemisLib-1.12.2-v1.0.6.jar",
+    "a": "Camellias",
+    "u": "",
+    "m": "cd4d52c46b76651ad3f3ee36961ca8fd"
+  },
+  {
+    "n": "AutoRegLib",
+    "v": "1.3-32",
+    "f": "AutoRegLib-1.3-32.jar",
+    "a": "Vazkii",
+    "u": "http://www.vazkii.us",
+    "m": "4e5a4b881c27b1e4502a9a16c00882ad"
+  },
+  {
+    "n": "Battle Towers",
+    "v": "1.6.5",
+    "f": "BattleTowers-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "cddbafea0857962b0cba0a528ebbbb77"
+  },
+  {
+    "n": "Baubles",
+    "v": "1.5.2",
+    "f": "Baubles-1.12-1.5.2.jar",
+    "a": "Azanor",
+    "u": "http://www.minecraftforum.net/topic/2535073-baubles",
+    "m": "944dec4ef3fbfd4d498d94a7047af201"
+  },
+  {
+    "n": "Baubles-Hud",
+    "v": "5.0.2",
+    "f": "BaublesHud-1.12.2-5.0.2.jar",
+    "a": "Gigabit101",
+    "u": "",
+    "m": "43db1f8e39077e17c71d4da5f6fdb9f8"
+  },
+  {
+    "n": "Better Combat Rebirth",
+    "v": "1.5.6",
+    "f": "BetterCombat-1.12.2-1.5.6.jar",
+    "a": "Ironfists, SanAndreasP (Maintainer)",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2676282-1-9-x-better-combat-mod-feat-dual-wielding",
+    "m": "0885bc52f6f7bc3830cf56d56a00db7e"
+  },
+  {
+    "n": "Better Survival",
+    "v": "1.3.4",
+    "f": "Better_Survival-1.3.4(1.12.1).jar",
+    "a": "mujmajnkraft",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2794853-better-survival-1-0",
+    "m": "8d37981e1c0747e8d37834f74eac5c8c"
+  },
+  {
+    "n": "Biomes O\u0027 Plenty",
+    "v": "7.0.1.2441",
+    "f": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+    "a": "Adubbz, Amnet, Cheeserolls, Forstride, ted80",
+    "u": "http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty",
+    "m": "61fcc4ffff205ca261e61d6772debc4d"
+  },
+  {
+    "n": "Bloodmoon",
+    "v": "1.5.3",
+    "f": "Bloodmoon-MC1.12.2-1.5.3.jar",
+    "a": "lumien",
+    "u": "",
+    "m": "6abdadb259cac735ff85fce91888b9ac"
+  },
+  {
+    "n": "Botania",
+    "v": "r1.10-362",
+    "f": "Botania+r1.10-362.jar",
+    "a": "Vazkii, williewillus, wiiv, dylan4ever",
+    "u": "http://www.botaniamod.net",
+    "m": "9d6512335fe747ad489203026969abbe"
+  },
+  {
+    "n": "Bountiful Baubles",
+    "v": "0.0.1",
+    "f": "Bountiful Baubles-1.12.2-0.0.8.jar",
+    "a": "CursedFlames, Setadokalo",
+    "u": "",
+    "m": "747ebb03b66b59d7e4f8fb547a5ad40c"
+  },
+  {
+    "n": "BuildCraft",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Builders",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Compat",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Energy",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Factory",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Lib",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Robotics",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Silicon",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "BuildCraft Transport",
+    "v": "7.99.24.1",
+    "f": "BuildCraft-Mod-1.12.2.jar",
+    "a": "SpaceToad, BuildCraft Team",
+    "u": "http://www.mod-buildcraft.com/",
+    "m": "45e9e731ce4acdd54d84b1851216b184"
+  },
+  {
+    "n": "Campfire Spit",
+    "v": "1.12.2-1.3",
+    "f": "tanspit-1.12.2-1.3.jar",
+    "a": "Wolfie_Waffle",
+    "u": "",
+    "m": "590d0ae81d6c4d4a3839de0600429751"
+  },
+  {
+    "n": "Carrots Lib",
+    "v": "1.0.0b1",
+    "f": "carrotslib-mc1.12.2-1.0.0b1.jar",
+    "a": "The_Wabbit",
+    "u": "https://minecraft.curseforge.com/projects/carrots-lib",
+    "m": "07b8d3b7fb817f8e94426e0f4f105dc1"
+  },
+  {
+    "n": "Carry On",
+    "v": "1.12.2",
+    "f": "CarryOn MC1.12.2 v1.12.2.jar",
+    "a": "Tschipp, Purplicious_Cow, cy4n",
+    "u": "",
+    "m": "15eec734346dc75ea170d717e43a0c41"
+  },
+  {
+    "n": "Comforts",
+    "v": "1.4.1.2",
+    "f": "comforts-1.12.2-1.4.1.2.jar",
+    "a": "C4",
+    "u": "",
+    "m": "c67398e16303c222f0c19cf60cb5bd6e"
+  },
+  {
+    "n": "Coralreef",
+    "v": "2.0",
+    "f": "CoralReef-2.5-1.12.2.jar",
+    "a": "primetoxinz",
+    "u": "",
+    "m": "c6eb6d2f4417b231b88a71633f9ea211"
+  },
+  {
+    "n": "Corpse Complex",
+    "v": "1.0.6",
+    "f": "corpsecomplex-1.12.2-1.0.6.jar",
+    "a": "C4",
+    "u": "",
+    "m": "1b2f45032a3755a879906e5f6c65465b"
+  },
+  {
+    "n": "Craftable Chainmail",
+    "v": "1.0",
+    "f": "craftablechainmail-1.0.jar",
+    "a": "Moddy10/Leo40Git",
+    "u": "",
+    "m": "1d752538fc6e8d6d69e1c9ca7d46aa97"
+  },
+  {
+    "n": "Craftable Horse Armour [CHA\u0026S]",
+    "v": "1.3",
+    "f": "CraftableHorseArmour-1.3.0-1.12.jar",
+    "a": "EwyBoy",
+    "u": "",
+    "m": "97934c9e192372e0e9dc0b175914dfda"
+  },
+  {
+    "n": "CraftTweaker JEI Support",
+    "v": "2.0.3",
+    "f": "CraftTweaker2-1.12-4.1.19.jar",
+    "a": "",
+    "u": "",
+    "m": "513ae1c980c23ef7be081ad151618320"
+  },
+  {
+    "n": "CraftTweaker2",
+    "v": "4.1.19",
+    "f": "CraftTweaker2-1.12-4.1.19.jar",
+    "a": "StanHebben, Jaredlll08",
+    "u": "http://minetweaker3.powerofbytes.com",
+    "m": "513ae1c980c23ef7be081ad151618320"
+  },
+  {
+    "n": "CreativeCore",
+    "v": "1.9.9",
+    "f": "CreativeCore_v1.9.62_mc1.12.2.jar",
+    "a": "CreativeMD, N247S",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408667-creativecore-v1-3-24-required-by-randomadditions",
+    "m": "da06b809edbc0e603e53dde9cdd7504d"
+  },
+  {
+    "n": "CreativeCoreDummy",
+    "v": "1.0.0",
+    "f": "minecraft.jar",
+    "a": "CreativeMD",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "CT-GUI",
+    "v": "1.0.0",
+    "f": "CraftTweaker2-1.12-4.1.19.jar",
+    "a": "",
+    "u": "",
+    "m": "513ae1c980c23ef7be081ad151618320"
+  },
+  {
+    "n": "CTM",
+    "v": "MC1.12.2-0.3.3.22",
+    "f": "CTM-MC1.12.2-0.3.3.22.jar",
+    "a": "tterrag, Drullkus, minecreatr",
+    "u": "https://minecraft.curseforge.com/projects/ctm",
+    "m": "086cd9da4b8c50a9e483c7b580a9c4d8"
+  },
+  {
+    "n": "CubicChunks",
+    "v": "1.12.2-0.0.1003.0-SNAPSHOT",
+    "f": "CubicChunks-1.12.2-0.0.1003.0-SNAPSHOT-all.jar",
+    "a": "Barteks2x, Cuchaz, Razaekel",
+    "u": "",
+    "m": "7fe7c5607217be9717dea40437016a46"
+  },
+  {
+    "n": "CubicChunks DynamicTrees Addon",
+    "v": "1.12.2-0.1.1",
+    "f": "CubicDynamicTreesAddon-1.12.2-0.1.1.jar",
+    "a": "",
+    "u": "",
+    "m": "742c88844bf5687e20f2589e8282ba50"
+  },
+  {
+    "n": "CubicGen",
+    "v": "1.12.2-0.0.68.0-SNAPSHOT",
+    "f": "CubicWorldGen-1.12.2-0.0.68.0-SNAPSHOT-all.jar",
+    "a": "Barteks2x",
+    "u": "",
+    "m": "80f04d2056fa5c5f5329fb79e427eba3"
+  },
+  {
+    "n": "CustomCubicTCFix",
+    "v": "0.0.0",
+    "f": "CustomCubicTCFix-1.12.2-0.0.1.jar",
+    "a": "CursedFlames",
+    "u": "",
+    "m": "f6bc50bd79200b5c97987c409f045484"
+  },
+  {
+    "n": "Defiled Lands",
+    "v": "1.4.2",
+    "f": "defiledlands-1.12.2-1.4.2.jar",
+    "a": "Lykrast",
+    "u": "",
+    "m": "a44fc62fe222066e8657e7f266621d05"
+  },
+  {
+    "n": "Disenchanter",
+    "v": "1.6",
+    "f": "disenchanter-[1.12]1.6.jar",
+    "a": "Impelon",
+    "u": "http://minecraft.curseforge.com/projects/the-disenchanter-mod",
+    "m": "43c1d159dc56aa4c9434ed7525d4ce22"
+  },
+  {
+    "n": "Doomlike Dungeons",
+    "v": "1.12.10",
+    "f": "DoomlikeDungeons-1.12.10-MC1.12.2.jar",
+    "a": "Jared Blackburn (JaredBGreat)",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293843-doomlike-dungeons",
+    "m": "a2f2d1a15a2db3658435ece2bf5783ea"
+  },
+  {
+    "n": "DrZhark\u0027s CustomSpawner",
+    "v": "3.11.4",
+    "f": "Custom-Mob-Spawner-Mod-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "cd52040afaf2cf8b50da6d9bb9909188"
+  },
+  {
+    "n": "DrZhark\u0027s Mo\u0027Creatures Mod",
+    "v": "12.0.5",
+    "f": "DrZharks+MoCreatures+Mod-12.0.5.jar",
+    "a": "DrZhark, BloodShot, BlockDaddy",
+    "u": "http://www.mocreatures.org",
+    "m": "b02c58883f3d2956017639c6000d071e"
+  },
+  {
+    "n": "Dynamic Surroundings",
+    "v": "3.5.4.3",
+    "f": "DynamicSurroundings-1.12.2-3.5.4.3.jar",
+    "a": "OreCruncher, Abastro",
+    "u": "https://dynamicsurroundings.readthedocs.io",
+    "m": "649280d416e51509eedfb1e1004bb5ef"
+  },
+  {
+    "n": "Dynamic Surroundings: HUDs",
+    "v": "3.5.4.0",
+    "f": "DynamicSurroundingsHuds-1.12.2-3.5.4.0BETA.jar",
+    "a": "OreCruncher",
+    "u": "https://minecraft.curseforge.com/projects/dynamic-surroundings-huds",
+    "m": "96ef6ce6142c23a4e4ba357e65e46aae"
+  },
+  {
+    "n": "Dynamic Trees",
+    "v": "1.12.2-0.9.5",
+    "f": "DynamicTrees-1.12.2-0.9.5.jar",
+    "a": "FerreusVeritas",
+    "u": "",
+    "m": "1123cea33e73c815bc4b261ca168cdd7"
+  },
+  {
+    "n": "Dynamic Trees for Traverse",
+    "v": "1.5",
+    "f": "dttraverse-1.5.jar",
+    "a": "Odorousrex",
+    "u": "",
+    "m": "7755a54d4c682e43a1f5171a94e6c0ab"
+  },
+  {
+    "n": "DynamicSurroundingsCore",
+    "v": "3.5.4.3",
+    "f": "minecraft.jar",
+    "a": "OreCruncher",
+    "u": "https://github.com/OreCruncher/DynamicSurroundings/wiki",
+    "m": ""
+  },
+  {
+    "n": "Enchantment Descriptions",
+    "v": "1.1.19",
+    "f": "EnchantmentDescriptions-1.12.2-1.1.19.jar",
+    "a": "Darkhax",
+    "u": "http://www.darkhax.net",
+    "m": "56d54c7bf4baab114074d556f69f7200"
+  },
+  {
+    "n": "Enhanced Visuals",
+    "v": "1.0",
+    "f": "EnhancedVisuals_v1.2.4_mc1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "bde0272055b3da99009acb6ecc176d47"
+  },
+  {
+    "n": "Familiar Fauna",
+    "v": "1.0.11",
+    "f": "FamiliarFauna-1.12.2-1.0.11.jar",
+    "a": "Forstride",
+    "u": "https://minecraft.curseforge.com/projects/familiar-fauna",
+    "m": "a3bddaaba80627ff68f7c634c4098941"
+  },
+  {
+    "n": "Fancy Block Particles",
+    "v": "2.4.1",
+    "f": "FancyBlockParticles-1.12.x-2.4.1.jar",
+    "a": "TominoCZ",
+    "u": "https://minecraft.curseforge.com/projects/fancy-block-particles",
+    "m": "8e73092250d933121d2856ce1efb6a32"
+  },
+  {
+    "n": "First Aid",
+    "v": "1.6.10",
+    "f": "firstaid-1.6.10.jar",
+    "a": "ichttt, TechnikforLife",
+    "u": "https://minecraft.curseforge.com/projects/first-aid",
+    "m": "4c12d0ac7276064d49f249ec342a8676"
+  },
+  {
+    "n": "FlameLib",
+    "v": "1.0.0",
+    "f": "FlameLib-1.12.2-0.0.7.jar",
+    "a": "CursedFlames",
+    "u": "",
+    "m": "bab320a7ce88a6bd231ab6a9282a36d8"
+  },
+  {
+    "n": "FoamFix",
+    "v": "0.10.5-1.12.2",
+    "f": "foamfix-0.10.5-1.12.2.jar",
+    "a": "asiekierka",
+    "u": "http://asie.pl/Projects/Minecraft/Mods/FoamFix",
+    "m": "ec2829750206833af9ee098c5ddb8e32"
+  },
+  {
+    "n": "FoamFixCore",
+    "v": "7.7.4",
+    "f": "minecraft.jar",
+    "a": "asie",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "Food Expansion",
+    "v": "1.3",
+    "f": "FoodExpansion1.3.3-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "5005500083ca771356203e93236fa66b"
+  },
+  {
+    "n": "Forge Endertech",
+    "v": "1.12.2-4.4.22.2",
+    "f": "ForgeEndertech-1.12.2-4.4.22.2-build.0405.jar",
+    "a": "EnderLanky",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/forgeendertech",
+    "m": "c959b6cac7fc5c5da1e45695d5401a49"
+  },
+  {
+    "n": "Forge Mod Loader",
+    "v": "8.0.99.99",
+    "f": "forge-1.12.2-14.23.5.2847.jar",
+    "a": "cpw, LexManos, Player",
+    "u": "https://github.com/MinecraftForge/FML/wiki",
+    "m": ""
+  },
+  {
+    "n": "Forgotten Items",
+    "v": "1.1",
+    "f": "ForgottenItems MC1.12.2 v1.1.jar",
+    "a": "Tschipp",
+    "u": "",
+    "m": "75442b425b6a76d4f3cc884a734bf0a8"
+  },
+  {
+    "n": "Global GameRules",
+    "v": "2.2",
+    "f": "GlobalGameRules-1.12.2-2.2.7.jar",
+    "a": "Gory_Moon",
+    "u": "",
+    "m": "6a3ee9f9d8523d7ea2a2b78e05644ea8"
+  },
+  {
+    "n": "Grappling hook mod",
+    "v": "1.12.2-v11.1",
+    "f": "grapplemod-v11.1-1.12.2.jar",
+    "a": "yyon",
+    "u": "",
+    "m": "37db274d65c69addcb56a0ce47df94c6"
+  },
+  {
+    "n": "Hybrid world",
+    "v": "0.2.1",
+    "f": "hybridworld-0.2.1.jar",
+    "a": "",
+    "u": "",
+    "m": "358c92bbaafc477b73ea6df5ab8d9124"
+  },
+  {
+    "n": "Ice and Fire",
+    "v": "1.8.1",
+    "f": "iceandfire-1.8.1.jar",
+    "a": "Alexthe666, Raptorfarian",
+    "u": "",
+    "m": "cbea2068337d90e03b2478c54ba36f80"
+  },
+  {
+    "n": "Immersive Engineering",
+    "v": "0.12-91",
+    "f": "ImmersiveEngineering-0.12-91.jar",
+    "a": "BluSunrize, Damien A.W. Hazard",
+    "u": "https://github.com/BluSunrize/ImmersiveEngineering",
+    "m": "cd6b232f88d379500aec69297fbf2592"
+  },
+  {
+    "n": "IndustrialCraft 2",
+    "v": "2.8.170-ex112",
+    "f": "industrialcraft-2-2.8.170-ex112.jar",
+    "a": "Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44, Aroma1997, estebes, Chocohead",
+    "u": "http://www.industrial-craft.net",
+    "m": "d4f952c94cacdd280abbb73f072b2424"
+  },
+  {
+    "n": "Infernal Mobs",
+    "v": "1.7.6",
+    "f": "InfernalMobs-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "490f29a18ad3445f4dbd0616e9c06b0d"
+  },
+  {
+    "n": "Inventory Tweaks",
+    "v": "1.63+release.109.220f184",
+    "f": "InventoryTweaks-1.63.jar",
+    "a": "",
+    "u": "https://github.com/Kobata/inventory-tweaks",
+    "m": "1e2e33e5710394252abc4b014bc3dcbd"
+  },
+  {
+    "n": "ItemPhysic",
+    "v": "1.4.0",
+    "f": "minecraft.jar",
+    "a": "CreativeMD",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "IvToolkit",
+    "v": "1.3.3-1.12",
+    "f": "minecraft.jar",
+    "a": "Ivorius",
+    "u": "http://www.minecraftforum.net/topic/563257-172",
+    "m": ""
+  },
+  {
+    "n": "Just Enough Items",
+    "v": "4.15.0.268",
+    "f": "jei_1.12.2-4.15.0.268.jar",
+    "a": "mezz",
+    "u": "https://github.com/mezz/JustEnoughItems",
+    "m": "02f985065e7a2fdd17196b3030a067a4"
+  },
+  {
+    "n": "Labyrinth",
+    "v": "0.5.0",
+    "f": "labyrinth-0.5.0.jar",
+    "a": "Foghrye4",
+    "u": "",
+    "m": "91fa325724ac3b726b6e937ac02c285e"
+  },
+  {
+    "n": "Level Up! Reloaded",
+    "v": "${version}",
+    "f": "Level Up! 2-1.1.23-1.12.jar",
+    "a": "BeetoGuy",
+    "u": "",
+    "m": "82332952e6ac6c770d4976586cb09b12"
+  },
+  {
+    "n": "LLibrary",
+    "v": "1.7.19",
+    "f": "llibrary-1.7.19-1.12.2.jar",
+    "a": "iLexiconn, gegy1000",
+    "u": "https://github.com/iLexiconn/LLibrary",
+    "m": "32d8339a7a77e02e2e3583c38cfa96a6"
+  },
+  {
+    "n": "Lost Souls",
+    "v": "1.1.4",
+    "f": "lostsouls-1.12-1.1.4.jar",
+    "a": "McJty",
+    "u": "",
+    "m": "6302e60ef37ff5a517cd5434ef6f039a"
+  },
+  {
+    "n": "Lycanites Mobs",
+    "v": "2.0.0.7 - MC 1.12.2",
+    "f": "lycanitesmobs-1.12.2-2.0.0.7.jar",
+    "a": "",
+    "u": "http://lycanitesmobs.com",
+    "m": "ac71266e4eea49306bb37fb468e21b48"
+  },
+  {
+    "n": "MalisisCore",
+    "v": "1.12.2-6.5.1-SNAPSHOT",
+    "f": "malisiscore-1.12.2-6.5.1.jar",
+    "a": "Ordinastie, PaleoCrafter, AlmuraDev",
+    "u": "http://github.com/Ordinastie/MalisisCore",
+    "m": "ccc183a97d7b9688a49bf29b61343f49"
+  },
+  {
+    "n": "Mantle",
+    "v": "1.12-1.3.3.55",
+    "f": "Mantle-1.12-1.3.3.55.jar",
+    "a": "boni, progWML6, Alexbegt",
+    "u": "https://github.com/SlimeKnights/Mantle",
+    "m": "1026f5f8d3c4997831decd9023ca65a6"
+  },
+  {
+    "n": "Millenaire",
+    "v": "Millénaire 7.2.1",
+    "f": "millenaire-1.12.2-7.2.1.jar",
+    "a": "Kinniken",
+    "u": "https://millenaire.org",
+    "m": "36f891a6c36322dcc92042d83faecd43"
+  },
+  {
+    "n": "MineColonies",
+    "v": "1.12.2-0.10.348-RELEASE",
+    "f": "minecolonies-1.12.2-0.10.348-RELEASE-universal.jar",
+    "a": "Let\u0027s Dev Together Team",
+    "u": "http://minecolonies.com",
+    "m": "935012de4a028da80837342ca90b0cef"
+  },
+  {
+    "n": "Minecraft",
+    "v": "1.12.2",
+    "f": "minecraft.jar",
+    "a": "",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "Minecraft Coder Pack",
+    "v": "9.42",
+    "f": "minecraft.jar",
+    "a": "",
+    "u": "http://www.modcoderpack.com/website/",
+    "m": ""
+  },
+  {
+    "n": "Minecraft Forge",
+    "v": "14.23.5.2847",
+    "f": "forge-1.12.2-14.23.5.2847.jar",
+    "a": "LexManos, cpw, fry",
+    "u": "http://minecraftforge.net",
+    "m": ""
+  },
+  {
+    "n": "Mo\u0027 Bends",
+    "v": "0.24",
+    "f": "mobends-0.24_for_MC-1.12.jar",
+    "a": "GoblinBob",
+    "u": "",
+    "m": "928e8f3bfafe04209c5272e0315af43c"
+  },
+  {
+    "n": "ModLister",
+    "v": "1.12.2-3.2.4",
+    "f": "ModLister-1.12.2-3.2.4.jar",
+    "a": "iChun, Quetzi",
+    "u": "http://www.modlister.com/",
+    "m": "b4662cbed9a05357fbd4238fe90916bb"
+  },
+  {
+    "n": "Mowzie\u0027s Mobs",
+    "v": "1.5.4",
+    "f": "mowziesmobs-1.5.4.jar",
+    "a": "BobMowzie, pau101, iLexiconn",
+    "u": "",
+    "m": "67d9cba8f065c84630e9d9173fe8ef56"
+  },
+  {
+    "n": "Multi Mine",
+    "v": "1.6.1",
+    "f": "MultiMine-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "ecc402dc03a1af4cac1dc0162853c192"
+  },
+  {
+    "n": "Neat",
+    "v": "1.4-17",
+    "f": "Neat 1.4-17.jar",
+    "a": "Vazkii",
+    "u": "http://www.vazkii.us",
+    "m": "c371deab2490ecd6a2689eed09302d23"
+  },
+  {
+    "n": "No Tree Punching",
+    "v": "2.0.13",
+    "f": "notreepunching-2.0.13.jar",
+    "a": "AlcatrazEscapee",
+    "u": "",
+    "m": "5fc8fc13431cb0ac6b4ec0a75048e477"
+  },
+  {
+    "n": "OreLib Support Mod",
+    "v": "3.5.2.2",
+    "f": "OreLib-1.12.2-3.5.2.2.jar",
+    "a": "OreCruncher",
+    "u": "https://github.com/OreCruncher/OreLib/wiki",
+    "m": "d4a01946d05fb29e18a505c000007e0c"
+  },
+  {
+    "n": "Potion Core",
+    "v": "1.8_for_1.12.2",
+    "f": "PotionCore-1.8_for_1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "7e825bf11b614ef38fef869be119fe0d"
+  },
+  {
+    "n": "Potion Fingers",
+    "v": "r1.0-2",
+    "f": "PotionFingers-r1.0-2.jar",
+    "a": "Vazkii",
+    "u": "https://www.youtube.com/user/welsknightgaming",
+    "m": "10ede4ef5429f356b73dc26cb7e1fba8"
+  },
+  {
+    "n": "Quality Tools",
+    "v": "1.0.7_for_1.12.2",
+    "f": "QualityTools-1.0.7_for_1.12.2.jar",
+    "a": "Tmtravlr",
+    "u": "https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    "m": "a5db162ce5ad16451d8d961bea8a24f0"
+  },
+  {
+    "n": "Realistic Torches",
+    "v": "2.1.1",
+    "f": "RealisticTorches-1.12.2-2.1.1.jar",
+    "a": "ChaosTheDude",
+    "u": "https://minecraft.curseforge.com/projects/realistic-torches",
+    "m": "402db0ac1fabb10a977d918dd41067fb"
+  },
+  {
+    "n": "Rin\u0027s So Many Enchantments?",
+    "v": "0.4.4",
+    "f": "So Many Enchantments V0.4.4.jar",
+    "a": "Rin",
+    "u": "https://minecraft.curseforge.com/projects/so-many-enchantments",
+    "m": "a0d76289c5d15f7a1ce4fd77a81de50b"
+  },
+  {
+    "n": "Rough Tweaks",
+    "v": "1.0",
+    "f": "roughTweaks0.2.4-1.12.2.jar",
+    "a": "Lellson",
+    "u": "",
+    "m": "aff6886d28e29f17f60991c1f88d5758"
+  },
+  {
+    "n": "Scaling Health",
+    "v": "1.3.36",
+    "f": "ScalingHealth-1.12.2-1.3.36+140.jar",
+    "a": "",
+    "u": "https://minecraft.curseforge.com/projects/scaling-health",
+    "m": "b9e1254fe698397b5f65d90168165311"
+  },
+  {
+    "n": "Serene Seasons",
+    "v": "1.2.16",
+    "f": "SereneSeasons-1.12.2-1.2.16-universal.jar",
+    "a": "Adubbz, Forstride",
+    "u": "",
+    "m": "5095c0fe6b3f941417cf0fd62da15719"
+  },
+  {
+    "n": "Shadowfacts\u0027 Forgelin",
+    "v": "1.8.4",
+    "f": "Forgelin-1.8.4.jar",
+    "a": "shadowfacts",
+    "u": "https://github.com/shadowfacts/Forgelin",
+    "m": "2da79fce72265eab0541e565636d389d"
+  },
+  {
+    "n": "Silent Lib",
+    "v": "3.0.13",
+    "f": "SilentLib-1.12.2-3.0.13+167.jar",
+    "a": "",
+    "u": "",
+    "m": "226e4977e83fec1fd88963ce7a98fb16"
+  },
+  {
+    "n": "Simple Camp Fire",
+    "v": "1.2",
+    "f": "campfire-1.12-v1.2.jar",
+    "a": "jsit",
+    "u": "",
+    "m": "c4fded87dad07465f5c3c32fabc6fc84"
+  },
+  {
+    "n": "Sit",
+    "v": "v1.2",
+    "f": "sit-1.12.2-v1.2.jar",
+    "a": "bl4ckscor3",
+    "u": "",
+    "m": "53161cba1c27c221487da278b35b8f9d"
+  },
+  {
+    "n": "Spartan Shields",
+    "v": "1.5.4",
+    "f": "SpartanShields-1.12.2-1.5.4.jar",
+    "a": "ObliviousSpartan",
+    "u": "https://minecraft.curseforge.com/projects/spartan-shields",
+    "m": "e4c572bf9421c1e80b01c579f4a04594"
+  },
+  {
+    "n": "Spartan Weaponry",
+    "v": "beta 1.3.0",
+    "f": "SpartanWeaponry-1.12.2-beta-1.3.0.jar",
+    "a": "ObliviousSpartan",
+    "u": "https://minecraft.curseforge.com/projects/spartan-weaponry",
+    "m": "fb794d068c8eb5e56913eac99812bb6e"
+  },
+  {
+    "n": "SpawnerControl",
+    "v": "1.6.3b",
+    "f": "SpawnerControl-1.6.3b.jar",
+    "a": "Pyrofab",
+    "u": "",
+    "m": "1809929f13ea6d16cbf03036fd1e4f7e"
+  },
+  {
+    "n": "Structurize",
+    "v": "1.12.2-0.10.124-ALPHA",
+    "f": "structurize-1.12.2-0.10.124-ALPHA.jar",
+    "a": "Let\u0027s Dev Together",
+    "u": "http://minecolonies.com",
+    "m": "dd49e496b10207becf17a607ab0a7b58"
+  },
+  {
+    "n": "SwingThroughGrass",
+    "v": "1.12.2-1.2.3",
+    "f": "stg-1.12.2-1.2.3.jar",
+    "a": "Exidex",
+    "u": "",
+    "m": "b836648006f1451c65d33f7132eec770"
+  },
+  {
+    "n": "Switch-Bow",
+    "v": "1.5.7",
+    "f": "switchbow-1.5.7.jar",
+    "a": "Whitedraco",
+    "u": "https://minecraft.curseforge.com/projects/switch-bow",
+    "m": "57a76b4222722aeaf5d39c14ce9de85e"
+  },
+  {
+    "n": "Thaumcraft",
+    "v": "6.1.BETA26",
+    "f": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+    "a": "Azanor",
+    "u": "http://www.minecraftforum.net/topic/2011841-thaumcraft",
+    "m": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+  },
+  {
+    "n": "ThaumicJEI",
+    "v": "1.6.0",
+    "f": "ThaumicJEI-1.12.2-1.6.0-27.jar",
+    "a": "Buuz135",
+    "u": "",
+    "m": "ac9c39b39b4ea8dc40fe7b8a55d773d1"
+  },
+  {
+    "n": "The Lost Cities",
+    "v": "2.0.21",
+    "f": "lostcities-1.12-2.0.21.jar",
+    "a": "McJty",
+    "u": "",
+    "m": "00ec27173f043e2af7de061ac23fe9ee"
+  },
+  {
+    "n": "The Twilight Forest",
+    "v": "3.9.984",
+    "f": "twilightforest-1.12.2-3.9.984-universal.jar",
+    "a": "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus",
+    "u": "https://minecraft.curseforge.com/projects/the-twilight-forest",
+    "m": "c4080679da4abfcef87936301a45f740"
+  },
+  {
+    "n": "TickProfiler",
+    "v": "1.12-0.0.7",
+    "f": "TickProfiler-1.12-0.0.7.jar",
+    "a": "nallar",
+    "u": "https://github.com/MinimallyCorrect/TickProfiler#readme",
+    "m": "bf2e5923cf9fd8ae906c595745f1e91f"
+  },
+  {
+    "n": "Tinkers\u0027 Construct",
+    "v": "1.12.2-2.12.0.157",
+    "f": "TConstruct-1.12.2-2.12.0.157.jar",
+    "a": "boni, KnightMiner",
+    "u": "https://github.com/SlimeKnights/TinkersConstruct",
+    "m": "9c8942eff75c9f2b4a13ec085c118b56"
+  },
+  {
+    "n": "TNTUtils",
+    "v": "1.2.3",
+    "f": "tnt_utilities-mc1.12-1.2.3.jar",
+    "a": "ljfa",
+    "u": "https://minecraft.curseforge.com/projects/tntutils",
+    "m": "0dfe40b9031c799d3cf80a50c97d190a"
+  },
+  {
+    "n": "TNTUtils Core",
+    "v": "1.2.3",
+    "f": "minecraft.jar",
+    "a": "ljfa",
+    "u": "https://minecraft.curseforge.com/projects/tntutils",
+    "m": ""
+  },
+  {
+    "n": "Tool Belt",
+    "v": "1.9.9",
+    "f": "ToolBelt-1.12.2-1.9.9.jar",
+    "a": "gigaherz",
+    "u": "https://github.com/gigaherz/ToolBelt",
+    "m": "3f94d61bf40cc2f9c78f08a44c89f6f4"
+  },
+  {
+    "n": "Tough As Nails",
+    "v": "3.1.0.141",
+    "f": "ToughAsNails-1.12.2-3.1.0.141-universal.jar",
+    "a": "Adubbz, Forstride",
+    "u": "http://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails",
+    "m": "39634afb9279ab287b9d6772ee863d7c"
+  },
+  {
+    "n": "Traverse",
+    "v": "1.6.0",
+    "f": "Traverse-1.12.2-1.6.0-69.jar",
+    "a": "Prospector",
+    "u": "https://github.com/TraverseTeam/Traverse",
+    "m": "3cc748cd333cab2e5f8132a89cd40b48"
+  },
+  {
+    "n": "Trinkets and Baubles",
+    "v": "0.25.2",
+    "f": "Trinkets and Baubles-1.12.2-0.25.2.jar",
+    "a": "XzeroAir",
+    "u": "https://minecraft.curseforge.com/projects/trinkets-and-baubles",
+    "m": "5d3973cda8401e070393642ee2898056"
+  },
+  {
+    "n": "Trumpet Skeleton",
+    "v": "1.12-1.0.2.1",
+    "f": "trumpetskeleton-1.12-1.0.2.1.jar",
+    "a": "JamiesWhiteShirt",
+    "u": "",
+    "m": "fa0c66a7f47e3a1bcb874a2992e21edf"
+  },
+  {
+    "n": "TschippLib",
+    "v": "1.1.3",
+    "f": "TschippLib MC1.12.2 v1.1.3.jar",
+    "a": "Tschipp",
+    "u": "",
+    "m": "bad304eee3e23269dd94a26785e7d037"
+  },
+  {
+    "n": "Tumbleweed",
+    "v": "1.11-0.4.5",
+    "f": "tumbleweed-1.11-0.4.5.jar",
+    "a": "konwboy",
+    "u": "",
+    "m": "8afa3c20fbbdf5d44931b11c83e2a8cd"
+  },
+  {
+    "n": "Varied Commodities",
+    "v": "1.12.2",
+    "f": "VariedCommodities_1.12.2(15may18.jar",
+    "a": "Noppes",
+    "u": "",
+    "m": "5ce33db5db477dad820a7dd7de974425"
+  },
+  {
+    "n": "Waila",
+    "v": "1.8.26",
+    "f": "Hwyla-1.8.26-B41_1.12.2.jar",
+    "a": "ProfMobius, TehNut",
+    "u": "",
+    "m": "bca1c069d9171d331d211d24e8a3b770"
+  },
+  {
+    "n": "Waystones",
+    "v": "4.0.72",
+    "f": "Waystones_1.12.2-4.0.72.jar",
+    "a": "BlayTheNinth",
+    "u": "",
+    "m": "bd0e629002546e7cc3b6207a61886b88"
+  },
+  {
+    "n": "Wearable Backpacks",
+    "v": "3.1.2",
+    "f": "WearableBackpacks-1.12.2-3.1.2.jar",
+    "a": "copygirl, asiekierka",
+    "u": "https://copy.mcft.net/mc/WearableBackpacks",
+    "m": "300236193d940d786896dbfa388f4b8b"
+  },
+  {
+    "n": "Wolf Armor and Storage",
+    "v": "2.2.3.6",
+    "f": "wolfarmor-1.12.2-2.2.3.1798-universal.jar",
+    "a": "CenturionFox",
+    "u": "https://minecraft.curseforge.com/projects/wolf-armor-and-storage",
+    "m": "e7b68cc80c82938cceaa24b422a94a90"
+  },
+  {
+    "n": "XP From Harvest",
+    "v": "1.1.0",
+    "f": "xpfromharvest-1.12.2-1.1.0.jar",
+    "a": "RealGecko",
+    "u": "https://minecraft.curseforge.com/projects/xp-from-harvest",
+    "m": "8ef313675e9f727e0f35cd68d5af3432"
+  },
+  {
+    "n": "XPBook",
+    "v": "0.0.3-beta",
+    "f": "xpbook-1.12-0.0.3-beta.jar",
+    "a": "Winter_Grave",
+    "u": "",
+    "m": "705d01bca0a71c1990245cb2c80d03cb"
+  }
+]
