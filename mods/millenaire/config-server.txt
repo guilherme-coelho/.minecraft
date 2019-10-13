@@ -17,7 +17,7 @@ load_all_languages=true
 
 //Générer des villages; Générer des villages Millénaire dans les nouveaux tronçons.
 //Generate villages; Whether to generate Millénaire villages in new chunks.
-generate_villages=true
+generate_villages=false
 
 //Générer des bâtiments; Générer des bâtiments isolés dans les nouveaux tronçons.
 //Generate lone buildings; Whether to generate Millénaire lone buildings in new chunks.

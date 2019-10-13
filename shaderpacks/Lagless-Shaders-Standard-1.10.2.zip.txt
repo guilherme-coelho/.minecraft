@@ -1,3 +1,0 @@
-#Tue Oct 08 04:48:47 BRT 2019
-LENS_EFFECTS=false
-GODRAYS=false

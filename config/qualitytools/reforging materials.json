@@ -509,14 +509,6 @@
   },
   {
     "tool": {
-        "item": "toolbelt:belt"
-    },
-    "material": {
-        "item": "minecraft:leather"
-    }
-  },
-  {
-    "tool": {
         "item": "potionfingers:ring"
     },
     "material": {
@@ -529,14 +521,6 @@
     },
     "material": {
         "item": "minecraft:gold_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "defiledlands:scarlite_ring"
-    },
-    "material": {
-        "item": "defiledlands:umbrium_ingot"
     }
   },
   {

@@ -2,30 +2,30 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.0
+gamma:1.0
 saturation:0.0
-renderDistance:6
+renderDistance:17
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["ctp_1.2_MCv3.zip","AntiqueAtlasExtra-v1.2.zip"]
+resourcePacks:["ctp_1.2_MCv3.1.zip"]
 incompatibleResourcePacks:[]
-lastServer:br.enxadahost.com:10051
+lastServer:localhost:10051
 lang:en_us
 chatVisibility:0
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
-fullscreen:false
+snooperEnabled:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -43,7 +43,7 @@ mipmapLevels:4
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:true
+entityShadows:false
 mainHand:right
 attackIndicator:1
 showSubtitles:false
@@ -59,8 +59,8 @@ key_key.left:30
 key_key.back:31
 key_key.right:32
 key_key.jump:57
-key_key.sneak:42
-key_key.sprint:29
+key_key.sneak:29
+key_key.sprint:42
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
@@ -75,7 +75,7 @@ key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:46
 key_key.loadToolbarActivator:45
-key_key.advancements:38
+key_key.advancements:0
 key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
@@ -86,45 +86,68 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_of.key.zoom:46
-key_Change Caster Focus:33
-key_Misc Caster Toggle:34
-key_ALT Key:56
-key_Boost Key:29
-key_Mode Switch Key:50
-key_Side Inventory Key:46
-key_Hub Expand Key:45
-key_keybind.baublesinventory:48
-key_keys.baubleshud.config:73
-key_key.betterfoliage.gui:66
+key_Change Caster Focus:19
+key_Misc Caster Toggle:46
+key_ALT Key:0
+key_Boost Key:0
+key_Mode Switch Key:0
+key_Side Inventory Key:0
+key_Hub Expand Key:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
+key_quark.emote.no:0
+key_quark.emote.yes:0
+key_quark.emote.wave:0
+key_quark.emote.salute:0
+key_quark.emote.cheer:0
+key_quark.emote.clap:0
+key_quark.emote.think:0
+key_quark.emote.point:0
+key_quark.emote.shrug:0
+key_quark.emote.headbang:0
+key_quark.emote.weep:0
+key_quark.emote.facepalm:0
+key_quark.emote.dance:0
+key_quark.emote.tpose:0
+key_quark.emote.dab:0
+key_quark.emote.jet:0
+key_quark.emote.exorcist:0
+key_quark.emote.zombie:0
+key_keybind.baublesinventory:0
+key_key.betterfoliage.gui:0
 key_cos.key.opencosarmorinventory:0
-key_key.wearablebackpacks.open:48
-key_Open Menu:25
-key_Toggle Freeze Effect:19
-key_Enable/Disable:0
-key_Kill Particles:0
-key_Blacklist Block:45
+key_MoCreatures Dive:56
+key_MoCreatures GUI:0
+key_key.erebus.glide:34
+key_key.erebus.poweredglide:35
+key_key.erebus.beetleram:19
+key_key.erebus.beetlemine:56
 key_keybinds.show_wounds:35
-key_key.mount.ability:45
-key_key.mount.inventory:0
-key_key.index:34
-key_key.beastiary:0
-key_key.pets:0
-key_key.summoning:0
-key_key.minions:19
-key_MoCreatures Dive:44
-key_MoCreatures GUI:100
 key_Blink:33
 key_neat.keybind.toggle:0
-key_Difficulty Meter - Show:49
-key_Difficulty Meter - Show Always:49:SHIFT
+key_Difficulty Meter - Show:40
+key_Difficulty Meter - Show Always:40:SHIFT
 key_key.xat.trinket_target.desc:25
 key_key.xat.trinket_toggle_effect.desc:43
 key_key.xat.aux_key.desc:29
-key_dshuds.keybind.SelectionBox:48
-key_dshuds.keybind.LightLevel:65
+key_keys.vampirism.action:19
+key_keys.vampirism.suck:47
+key_keys.vampirism.select_skills:25
+key_keys.vampirism.vision:49
+key_keys.vampirism.blood_potion_crafting:48:CONTROL
+key_keys.vampirism.action1:2:ALT
+key_keys.vampirism.action2:3:ALT
+key_key.wearablebackpacks.open:48
+key_dshuds.keybind.SelectionBox:12
+key_dshuds.keybind.LightLevel:0
 key_dshuds.keybind.ChunkBorders:67
 key_key.pickup.item:0
-key_key.unhook:45
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -136,10 +159,19 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.toggle_focus.desc:15
-key_key.useweapon:45
-key_nei.options.keys.gui.botania_corporea_request:46
-key_key.carry.desc:42
+key_Dive down:56
+key_nei.options.keys.gui.botania_corporea_request:0
+key_key.settings_menu:34
+key_key.range:19
+key_key.undo:22
+key_key.anchor:35
+key_key.fuzzy:0
+key_key.connected_area:0
+key_key.rotate_mirror:0
+key_key.material_list:50
+key_key.toggleCleanView:0
 key_key.colytra.toggle.desc:34
+key_key.openConfig:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -151,10 +183,19 @@ key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_invtweaks.key.sort:19
 key_LevelUpGUI:38
-key_key.menu:50
-key_key.villages:47
-key_key.escorts:34
-key_Mo'Bends Menu:34
+key_key.rotateup:200
+key_key.rotatedown:208
+key_key.rotateright:205
+key_key.rotateleft:203
+key_key.little.flip:34
+key_key.little.mark:50
+key_key.little.config.item:46
+key_key.little.undo:44:CONTROL
+key_key.little.redo:21:CONTROL
+key_key.menu:207
+key_key.villages:0
+key_key.escorts:0
+key_Mo'Bends Menu:0
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
@@ -162,10 +203,27 @@ key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
-key_key.toolbelt.open:19
-key_key.toolbelt.cycle.left:0
-key_key.toolbelt.cycle.right:0
-key_key.toolbelt.slot:47
+key_WorldEdit Reference:38
+key_worldeditcuife2.key.cui.options:55
+key_worldeditcuife2.key.cui.toggle.visibility:181
+key_worldeditcuife2.key.cui.clear.selection:0
+key_worldeditcuife2.key.chunk.toggle.visibility:62
+key_worldeditcuife2.key.distance.toggle.visibility:0
+key_gui.xaero_minimap_settings:21
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map:41
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:23
+key_gui.xaero_zoom_out:24
+key_gui.xaero_new_waypoint:49
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_open_map:50
+key_gui.xaero_open_settings:199
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_enderio.keybind.inventory:23
@@ -185,8 +243,6 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-key_key.switchbow.switchup:0
-key_key.switchbow.switchdown:0
 soundCategory_master:0.15231788
 soundCategory_music:0.0
 soundCategory_record:1.0
