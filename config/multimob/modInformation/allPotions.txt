@@ -123,5 +123,10 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+astralsorcery:potioncheatdeath
+astralsorcery:potionbleed
+astralsorcery:potionspellplague
+astralsorcery:potiondropmodifier
+astralsorcery:potiontimefreeze
 bountifulbaubles:sinful
 firstaid:morphine
